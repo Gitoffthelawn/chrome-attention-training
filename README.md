@@ -111,3 +111,5 @@ apple.com
 - [StorageArea.set() : MDN Web Docs](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/storage/StorageArea/set)
 - [RegExr : gskinner](https://regexr.com/)
 - [Attention span - Wikipedia](https://en.wikipedia.org/wiki/Attention_span)
+
+![](https://ga-beacon.deno.dev/G-4NEP5LC20N:1fbE9YTHTw2pzxI6HO33Mw/github.com/pantryf/attention-training.chrome)
